@@ -1,0 +1,13 @@
+1 ) LG Gram Price:$1,296  Processor Intel Evo 11th gen CORE i7 16GB RAM
+2)HP Stream $219.99 Processor Intel Celeron N4000 Dual-Core  4GB RAM
+3) Apple MacBook Air Price:$966.83 Laptop  Apple M1 Chip 8GB RAM
+4)Acer Chromebook Spin  Processor Intel Celeron N4020  4GB LPDDR4
+5)Lenovo Chromebook S330 Processor Mediatek MT8173C up to 1.7 Ghz  4GB RAM
+6) Samsung Electronics Galaxy Book Pro Intel Core i7 Processor 16GB RAM
+7) Acer Predator Helios 300 Intel i7-11800H 16GB DDR4
+8) MSI Stealth GS77 Price:$4,629.00 i7-12700H 64GB RAM
+9) ASUS VivoBook Flip Price:$399.99 11th Gen Intel Core i3 4GB RAM 
+10 ) LG Gram 14T90P Price:$1,396.99  Core i7 16GB RAM
+11) Dell Chromebook Price:$72.99 11 ntel Celeron 2955U 1.40GHz 2GB RAM
+12) MSI GL66 Gaming Laptop Price:$1,259.00 IntelCore i7-11800H 16GB
+ 
